@@ -25,7 +25,7 @@ nav
   padding:30px 20px 0px 20px ;
   flex:var(--sidebar-flex);
   background: rgb(238,103,143);
-  background: linear-gradient(to top, rgba(#34e89e) 50%, rgba(#0f3443) 80%);
+  background: linear-gradient(to top, #34e89e, #0f3443);
 }
 .condiv
 {
